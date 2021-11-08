@@ -36,7 +36,7 @@ Step 5: In this final step, open the application Startup Application and add the
         allow it to run on startup and change the screen brightness.
         
 I hope this helps those who have been struggling.
-Thank your for your patronage, Severian-desu-ga.
+Thank your for your patronage, DanKulik.
         
     
 
